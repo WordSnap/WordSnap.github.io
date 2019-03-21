@@ -1,0 +1,1 @@
+To view website open index.html in a web browser.
